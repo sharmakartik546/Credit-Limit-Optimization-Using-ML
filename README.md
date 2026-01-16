@@ -1,4 +1,4 @@
-#SHUBHANGI THAKUR
+#Kartik Sharma
 
 # Structure of the folder
 
